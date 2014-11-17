@@ -7,4 +7,5 @@ My work repository
 2. Add "plane" (azura)
 3. Add "train" (azura)
 4. Add "apple" (shahrom)
+5. Add "orange" (shahrom)
 
