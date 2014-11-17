@@ -10,3 +10,4 @@ My work repository
 5. Add "orange" (shahrom)
 6. Add "bike" (azura)
 7. Add "ball" (azura)
+8. Add "dog" (azura)
